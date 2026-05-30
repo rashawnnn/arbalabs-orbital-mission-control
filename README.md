@@ -36,7 +36,7 @@ Ensure you have PHP and Composer installed on your local environment.
 
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/YOUR_USERNAME/arbalabs-orbital-mission-control.git](https://github.com/YOUR_USERNAME/arbalabs-orbital-mission-control.git)
+git clone [https://github.com/rashawnnn/arbalabs-orbital-mission-control.git](https://github.com/rashawnnn/arbalabs-orbital-mission-control.git)
 
 # 2. Navigate to the project root directory
 cd arbalabs-orbital-mission-control
